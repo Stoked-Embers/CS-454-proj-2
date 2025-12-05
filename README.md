@@ -14,7 +14,7 @@ k3d
      a) docker build -t my-backend:local .
 
 2. go into /project and run these commands
-     a) terraform init
+        - terraform init
      b) terraform validate
      c) terraform apply
 
