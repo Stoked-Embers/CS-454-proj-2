@@ -57,6 +57,12 @@ terraform apply
 All images
 <img width="1115" height="232" alt="image" src="https://github.com/user-attachments/assets/ca1178c8-24de-48ed-9ddc-8139d8efa247" />
 
+Part 1 running
+<img width="1805" height="306" alt="image" src="https://github.com/user-attachments/assets/002be021-de84-4a33-bfd9-897529ec815a" />
+
+Part 2 running
+<img width="1928" height="201" alt="image" src="https://github.com/user-attachments/assets/59ab6d96-72d6-4041-8f33-b5cee358b6f1" />
+
 
 # Reflection:
 
