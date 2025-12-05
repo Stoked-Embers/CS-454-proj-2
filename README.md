@@ -12,7 +12,7 @@
 
 1. In /actual build the docker image
 ```bash
-docker build -t my-backend:local
+docker build -t my-backend:local .
 ```
 2. go into /project and run these commands
 ```bash
