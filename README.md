@@ -11,14 +11,15 @@ k3d
 # Part 1
 
 1. In /actual build the docker image
-     - docker build -t my-backend:local .
-
-2. go into /project and run these commands
+'''bash
+docker build -t my-backend:local
+'''
+3. go into /project and run these commands
      - terraform init
      - terraform validate
      - terraform apply
 
-3. visit the site, you sould see some json output 
+4. visit the site, you sould see some json output 
      - http://localhost:8080
 
 # Part 2
