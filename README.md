@@ -16,18 +16,35 @@
 ```bash
 docker build -t my-backend:local .
 ```
-2. go into /project and run these commands
+2. Go into /project and run these commands
 ```bash
 terraform init
 terraform validate
 terraform apply
 ```
-3. visit the site, you sould see some json output 
+3. Visit the site, you sould see some json output 
   - http://localhost:8080
 <img width="704" height="321" alt="image" src="https://github.com/user-attachments/assets/2bffb8ab-9671-45a3-a3cb-ab6f39b83f8c" />
 
 
 # Part 2
+
+1. In /project_k8s
+```bash
+k3d cluster create project -p "30000:30000@server:0"
+```
+2. Import the backend into k3d
+```bash
+k3d image import my-backend:local --cluster demo
+```
+3. run these commands
+```bash
+terraform init
+terraform apply
+```
+4. Visit the site
+  - http://localhost:30000
+# Pictures
 
 
 # Reflection:
