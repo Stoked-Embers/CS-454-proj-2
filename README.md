@@ -10,6 +10,11 @@
 
 # enhancements 
 
+Part 1:
+  - 2 backend containers 
+Part 2:
+  - 2 replicas
+
 # Part 1
 
 1. In /actual build the docker image
