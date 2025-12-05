@@ -11,7 +11,8 @@
 # enhancements 
 
 Part 1:
-  - 2 backend containers 
+  - 2 backend containers
+
 Part 2:
   - 2 replicas
 
