@@ -44,6 +44,8 @@ terraform apply
 ```
 4. Visit the site
   - http://localhost:30000
+<img width="698" height="311" alt="image" src="https://github.com/user-attachments/assets/96d8befe-393c-4ed8-b8eb-5c308dc0d1bf" />
+
 # Pictures
 
 
