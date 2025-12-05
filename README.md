@@ -21,9 +21,8 @@ terraform validate
 terraform apply
 ```
 3. visit the site, you sould see some json output 
-```bash
-http://localhost:8080
-```
+  - http://localhost:8080
+
 
 # Part 2
 
