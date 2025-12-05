@@ -8,6 +8,8 @@
 - Terraform
 - k3d
 
+# enhancements 
+
 # Part 1
 
 1. In /actual build the docker image
@@ -22,6 +24,7 @@ terraform apply
 ```
 3. visit the site, you sould see some json output 
   - http://localhost:8080
+<img width="704" height="321" alt="image" src="https://github.com/user-attachments/assets/2bffb8ab-9671-45a3-a3cb-ab6f39b83f8c" />
 
 
 # Part 2
