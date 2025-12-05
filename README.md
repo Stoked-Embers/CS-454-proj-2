@@ -35,7 +35,7 @@ k3d cluster create project -p "30000:30000@server:0"
 ```
 2. Import the backend into k3d
 ```bash
-k3d image import my-backend:local --cluster demo
+k3d image import my-backend:local --cluster project
 ```
 3. run these commands
 ```bash
