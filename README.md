@@ -19,7 +19,7 @@ k3d
      - terraform apply
 
 3. visit the site, you sould see some json output 
-     a) http://localhost:8080
+     - http://localhost:8080
 
 # Part 2
 
