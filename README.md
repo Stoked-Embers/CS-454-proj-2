@@ -54,6 +54,9 @@ terraform apply
 
 # Pictures
 
+All images
+<img width="1115" height="232" alt="image" src="https://github.com/user-attachments/assets/ca1178c8-24de-48ed-9ddc-8139d8efa247" />
+
 
 # Reflection:
 
