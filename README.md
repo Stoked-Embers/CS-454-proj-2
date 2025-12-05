@@ -2,11 +2,11 @@
 
 # requirements 
 
-Linux environment (mainly for part 2)
-Docker
-Kubectl
-Terraform
-k3d
+- Linux environment (mainly for part 2)
+- Docker
+- Kubectl
+- Terraform
+- k3d
 
 # Part 1
 
@@ -14,13 +14,13 @@ k3d
 ```bash
 docker build -t my-backend:local
 ```
-3. go into /project and run these commands
+2. go into /project and run these commands
 ```bash
 terraform init
 terraform validate
 terraform apply
 ```
-4. visit the site, you sould see some json output 
+3. visit the site, you sould see some json output 
 ```bash
 http://localhost:8080
 ```
